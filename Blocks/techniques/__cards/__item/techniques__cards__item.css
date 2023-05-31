@@ -1,0 +1,12 @@
+.techniques__cards__item {
+  padding-top: 60px;
+  width: 240px;
+}
+
+.techniques__cards__item:not(:first-of-type) {
+  margin-left: 100px;
+}
+
+.techniques__cards__item:nth-of-type(4n) {
+  margin-left: 0px;
+}

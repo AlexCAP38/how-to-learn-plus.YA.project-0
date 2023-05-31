@@ -1,0 +1,9 @@
+.techniques__cards__item__image {
+  width: 160px;
+  height: 160px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 100%;
+  margin: 0 40px;
+}
