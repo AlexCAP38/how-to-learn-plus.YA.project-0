@@ -12,10 +12,11 @@
     url(../Fonts/Inter-Bold.woff2) format('woff2');
 }
 
+  /*SemiBold*/
 @font-face {
   font-family: 'Inter';
   font-weight: 600;
-  /*SemiBold*/
+
   src: url(../Fonts/Inter-SemiBold.woff) format('woff'),
     url(../Fonts/Inter-SemiBold.woff2) format('woff2');
 }
