@@ -10,6 +10,7 @@
   position: absolute;
   top: 50%;
   right: 48px;
+  z-index: 2;
 }
 
 .feynman__link:hover {
