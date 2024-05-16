@@ -16,6 +16,5 @@
 
 ## ссылка на Github pages:
 
-https://alexcap38.github.io/how-to-learn-plus.YA.project-0/
-
-PS на компе нормально отображается на гите есть проблемы с отображением 
+Запуск: склонировать репозиторий
+открыть index.html
